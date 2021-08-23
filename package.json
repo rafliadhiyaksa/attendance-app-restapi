@@ -1,0 +1,24 @@
+{
+  "name": "presensi_rest_api",
+  "version": "1.0.0",
+  "description": "rest api aplikasi presensi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafliadhiyaksa/attendance-app-restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "rafliadhiyaksa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafliadhiyaksa/attendance-app-restapi/issues"
+  },
+  "homepage": "https://github.com/rafliadhiyaksa/attendance-app-restapi#readme"
+}
